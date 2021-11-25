@@ -8,16 +8,16 @@
 
 
   
-  <div>
-    <h1>STACKS</h1>
-    <img height="80rem" src="https://cdn-icons-png.flaticon.com/512/3094/3094455.png">
-    <img height="80rem" src="https://cdn-icons-png.flaticon.com/512/3094/3094320.png">
-    <img height="80rem" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
-    <img height="80rem" src="https://cdn-icons-png.flaticon.com/512/1081/1081826.png">
+<div>
+  <h1>STACKS</h1>
+  <img height="80rem" src="https://cdn-icons-png.flaticon.com/512/3094/3094455.png">
+  <img height="80rem" src="https://cdn-icons-png.flaticon.com/512/3094/3094320.png">
+  <img height="80rem" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
+  <img height="80rem" src="https://cdn-icons-png.flaticon.com/512/1081/1081826.png">
   <img height="80rem" src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183621.png?token=exp=1637868269~hmac=204b12634f83dbe0eec5ff91d3a8722f">
   <img height="80rem" src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183618.png?token=exp=1637868285~hmac=de6d3afd6e044ed521d4db50768c9352">
   <img height="80rem" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
-  </div>
+</div>
   
 <div>
   <a href="https://github.com/mateusfranca97">
