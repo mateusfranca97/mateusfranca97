@@ -10,7 +10,7 @@
   
 <div>
   <h1>STACKS</h1>
-  <img height="80rem" src="https://cdn-icons-png.flaticon.com/512/3094/3094455.png">
+  <img height="80rem" src="./css3">
   <img height="80rem" src="https://cdn-icons-png.flaticon.com/512/3094/3094320.png">
   <img height="80rem" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
   <img height="80rem" src="https://cdn-icons-png.flaticon.com/512/1081/1081826.png">
