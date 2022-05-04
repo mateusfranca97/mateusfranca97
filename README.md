@@ -3,7 +3,7 @@
   <p>:computer: I'm Front-End Developer!<p>
   <p>:house_with_garden: I’m from Brazil.<p>
   <p>:books: I’m currently learning everything.<p>
-  <p>:outbox_tray: 2021 Goals: create a new project and find a new job.<p>
+  <p>:outbox_tray: 2022 Goals: create a new project and find a new job.<p>
 </div>
   
 <div>
