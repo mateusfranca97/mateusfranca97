@@ -8,8 +8,7 @@
   
 <div>
   <a href="https://github.com/mateusfranca97">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?  
-    username=mateusfranca97&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=mateusfranca97&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfranca97&layout=compact&langs_count=7&theme=merko"/>
 </div>
   <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/648a49df35999ac823743f82?variant=dark" alt="roadmap.sh"/></a>
